@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-merged_res-30:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-main-32:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-merged_res-30:/raw_lion.mp4.flat",
+        "source": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-main-32:/raw/lion.mp4"
+    },
+    {
+        "merged": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-merged_res-30:/menu_activity_main.xml.flat",
+        "source": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-main-32:/menu/activity_main.xml"
+    },
+    {
+        "merged": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-merged_res-30:/raw_sintel.mp4.flat",
+        "source": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-main-32:/raw/sintel.mp4"
+    },
+    {
+        "merged": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-merged_res-30:/drawable_rounded_bg.xml.flat",
+        "source": "com.google.ar.sceneform.samples.videotexture.sample-video-texture-main-32:/drawable/rounded_bg.xml"
+    }
+]
